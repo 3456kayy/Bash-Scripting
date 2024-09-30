@@ -15,13 +15,12 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Program walk-through:</h2>
 
-This Bash script reads a set of numbers from the user and performs statistical calculations using basic Unix commands and arithmetic operations. 
-Input: <br/>
+This Bash script reads a set of numbers from the user and performs statistical calculations using basic Unix commands and arithmetic operations.Input: <br/>
 <img src="https://imgur.com/RKLyoAd.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The program calculates the mean, median, range, variance, and standard deviation for a given set of numbers and displays the results in the terminal. Output:  <br/>
+<img src="https://imgur.com/o3lvzsy.png" height="80%" width="80%"/>
 <br />
 <br />
 Enter the number of passes: <br/>
