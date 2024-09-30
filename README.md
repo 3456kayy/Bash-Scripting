@@ -16,8 +16,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-This Bash script reads a set of numbers from the user and performs statistical calculations using basic Unix commands and arithmetic operations. The program calculates the mean, median, range, variance, and standard deviation for a given set of numbers and displays the results in the terminal. <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+This Bash script reads a set of numbers from the user and performs statistical calculations using basic Unix commands and arithmetic operations. <br/>
+<img src="https://imgur.com/RKLyoAd.png" height="80%" width="80%"/>
 <br />
 <br />
 Select the disk:  <br/>
