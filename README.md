@@ -1,7 +1,7 @@
-<h1>Demonstrating Scripting Skills With Bash</h1>
+<h1>Demonstrating Scripting Skills with Bash</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Below is a series of Bash scripts that focus on automating tasks and performing calculations using command-line tools. The scripts demonstrate proficiency in handling user input, applying conditional logic, and performing arithmetic operations with precision. Additionally, the project highlights skills in utilizing core Linux features to manipulate data and automate tasks efficiently. These scripts provide examples of how automation and scripting can simplify  tasks and improve efficiency.
 <br />
 
 
@@ -24,11 +24,11 @@ The program calculates the mean, median, range, variance, and standard deviation
 <img src="https://imgur.com/o3lvzsy.png" height="80%" width="80%"/>
 <br />
 <br />
-This Bash script simulates a slot machine by defining an array of fruits the RANDOM function to generate random numbers that corresponds to fruits. INPUT: <br/>
+This Bash script simulates a slot machine by defining an array of fruits using the RANDOM function to generate random numbers that corresponds to fruits. INPUT: <br/>
 <img src="https://imgur.com/jVH7nMk.png" height="80%" width="80%"/>
 <br />
 <br />
-The program initiates a slot machine spin, displays the results of the five wheels, and checks if all five fruits match. If they do, it declares a "Lucky Winner!" message, otherwise, it informs the user "Better luck next time!" OUTPUT:  <br/>
+The program initiates a slot machine spin, displays the results of the five wheels, and checks if all five fruits match. If they do, it declares a "Lucky Winner!" message; otherwise, it informs the user "Better luck next time!" OUTPUT:  <br/>
 <img src="https://imgur.com/J5v87MV.png" height="80%" width="80%"/>
 <br />
 <br />
