@@ -32,12 +32,12 @@ The program initiates a slot machine spin, displays the results of the five whee
 <img src="https://imgur.com/J5v87MV.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The script prompts the user for their annual salary, calculates federal tax using conditional statements based on progressive tax brackets, and performs arithmetic operations using the bc command for precise calculations. INPUT:  <br/>
+<img src="https://imgur.com/dMXLP6g.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The program calculates federal and state taxes, retirement, and Medicare deductions based on the user's input salary. It then subtracts the total deductions from the annual salary to determine the user's monthly take-home pay, which is displayed to the user. OUTPUT:  <br/>
+<img src="https://imgur.com/wrocr1o.png" height="80%" width="80%"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
