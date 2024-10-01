@@ -27,8 +27,8 @@ This Bash script simulates a slot machine by defining an array of fruits the RAN
 <img src="https://imgur.com/jVH7nMk.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The program initiates a slot machine spin, displays the results of the five wheels, and checks if all five fruits match. If they do, it declares a "Lucky Winner!" message, otherwise, it informs the user "Better luck next time!" OUTPUT:  <br/>
+<img src="https://imgur.com/J5v87MV.png" height="80%" width="80%"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
