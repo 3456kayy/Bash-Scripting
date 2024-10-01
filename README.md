@@ -23,7 +23,7 @@ The program calculates the mean, median, range, variance, and standard deviation
 <img src="https://imgur.com/o3lvzsy.png" height="80%" width="80%"/>
 <br />
 <br />
-This Bash script simulates a slot machine by defining an array of fruits the RANDOM function to generate random numbers that corresponds to fruits: <br/>
+This Bash script simulates a slot machine by defining an array of fruits the RANDOM function to generate random numbers that corresponds to fruits. INPUT: <br/>
 <img src="https://imgur.com/jVH7nMk.png" height="80%" width="80%"/>
 <br />
 <br />
