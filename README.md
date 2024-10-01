@@ -39,17 +39,3 @@ The script prompts the user for their annual salary, calculates federal tax usin
 The program calculates federal and state taxes, retirement, and Medicare deductions based on the user's input salary. It then subtracts the total deductions from the annual salary to determine the user's monthly take-home pay, which is displayed to the user. OUTPUT:  <br/>
 <img src="https://imgur.com/wrocr1o.png" height="80%" width="80%"/>
 <br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
