@@ -16,7 +16,7 @@ Below is a series of Bash scripts that focus on automating tasks and performing 
 
 <h2>Program walk-through:</h2>
 
-This Bash script reads a set of numbers from the user and performs statistical calculations using basic Unix commands and arithmetic operations.Input: <br/>
+This script reads a set of numbers from the user and performs statistical calculations using basic Unix commands and arithmetic operations. Input: <br/>
 <img src="https://imgur.com/RKLyoAd.png" height="80%" width="80%"/>
 <br />
 <br />
@@ -24,7 +24,7 @@ The program calculates the mean, median, range, variance, and standard deviation
 <img src="https://imgur.com/o3lvzsy.png" height="80%" width="80%"/>
 <br />
 <br />
-This Bash script simulates a slot machine by defining an array of fruits using the RANDOM function to generate random numbers that corresponds to fruits. Input: <br/>
+This script simulates a slot machine by defining an array of fruits using the RANDOM function to generate random numbers that corresponds to fruits. Input: <br/>
 <img src="https://imgur.com/jVH7nMk.png" height="80%" width="80%"/>
 <br />
 <br />
